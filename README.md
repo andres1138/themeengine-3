@@ -1,2 +1,4 @@
 # Theme Engine 3
-> This verions of ThemeEngine should work without any issues, but I do not know for sure as I do not have a mac at this point in time unfortnately.
+> This is the last version of ThemeEngine I used before my imac died of natural causes.
+> It launched and worked perfectly.
+> I do not know if it will work without issues on the most recent macOS. I do not see why it would not work, try it out and let me know.
